@@ -1,2 +1,2 @@
 # action-repo
-Testing webhook push event happened
+Testing pull request event
